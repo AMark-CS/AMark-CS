@@ -1,12 +1,10 @@
-
-
 <div align="center">
 
 # Hi, I'm Mark 👋
 
 **MSc in Information Technology @ HKUST · Agent Inference Optimization Intern @ Kuaishou**
 
-🔬 Research Focus: **LLM Post-Training** &nbsp;|&nbsp; **AI Agents** &nbsp;|&nbsp; **Agentic Reasoning**
+🔬 Research Focus: **AI Agents** &nbsp;|&nbsp; **LLM Post-Training** &nbsp;|&nbsp; **Agentic Reasoning**
 
 </div>
 
@@ -109,28 +107,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AMark-CS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMark-CS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMark-CS&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AMark-CS&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=square&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=square&theme=light" />
+  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=square&theme=tokyonight" alt="GitHub Contribution Snake" />
+</picture>
 
 ---
 
@@ -148,7 +131,7 @@
 | Channel | Handle |
 |---|---|
 | ✉️ Email | `hhhzhchhh939l@gmail.com` |
-| 💬 WeChat | `vx15158871037` |
+| 💬 WeChat | `15158871037` |
 | 🐙 GitHub | [@AMark-CS](https://github.com/AMark-CS) |
 
 ---
