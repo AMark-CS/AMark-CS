@@ -16,7 +16,7 @@
 - 🏢 **Algorithm / Engineering Intern @ Kuaishou (快手)** — working on **Agent inference optimization**
 - 🧠 Research interests at the intersection of **RLHF / GRPO post-training**, **LLM agents**, and **efficient inference**
 - 🌱 Currently reading: *DeepSeek-R1*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
-- 💬 Reach me on WeChat: **`15158871037`**
+- 💬 Reach me on GMail: **`hhhzhchhh939@gamil.com`**
 
 ---
 
