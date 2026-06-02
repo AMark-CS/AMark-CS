@@ -15,7 +15,7 @@
 ## 🧭 About Me
 
 - 🎓 **M.Sc. in Computer Science**, The Hong Kong University of Science and Technology (HKUST)
-- 🏢 **Algorithm / Engineering Intern @ Kuaishou (快手)** — working on **Agent inference optimization** (KV Cache, Speculative Decoding, batching strategies)
+- 🏢 **Algorithm / Engineering Intern @ Kuaishou (快手)** — working on **Agent inference optimization**
 - 🧠 Research interests at the intersection of **RLHF / GRPO post-training**, **LLM agents**, and **efficient inference**
 - 🌱 Currently reading: *DeepSeek-R1*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
 - 💬 Reach me on WeChat: **`vx15158871037`**
