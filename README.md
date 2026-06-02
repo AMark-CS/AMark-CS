@@ -112,7 +112,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=nightowl&hide_rank=true&hide_total=true&hide_streaks=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=light&hide_rank=true&hide_total=true&hide_streaks=true" />
-  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=nightowl&hide_rank=true&hide_total=true&hide_streaks=true" alt="GitHub Contribution Snake" />
+  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=matrix&theme=tokyonight" alt="GitHub Contribution Snake" />
 </picture>
 
 ---
