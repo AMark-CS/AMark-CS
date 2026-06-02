@@ -15,7 +15,7 @@
 - 🎓 **M.Sc. in Computer Science**, The Hong Kong University of Science and Technology (HKUST)
 - 🏢 **Algorithm / Engineering Intern @ Kuaishou (快手)** — working on **Agent inference optimization**
 - 🧠 Research interests at the intersection of **RLHF / GRPO post-training**, **LLM agents**, and **efficient inference**
-- 🌱 Currently reading: *DeepSeek-R1*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
+- 🌱 Currently reading: *DeepSeek-V4*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
 - 💬 Reach me on WeChat: **`15158871037`**
 
 ---
@@ -110,9 +110,9 @@
 ## 🐍 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=nightowl&hide_rank=true&hide_total=true&hide_streaks=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=light&hide_rank=true&hide_total=true&hide_streaks=true" />
-  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=matrix&theme=tokyonight" alt="GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMark-CS/AMark-CS/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMark-CS/AMark-CS/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AMark-CS/AMark-CS/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </picture>
 
 ---
