@@ -4,7 +4,7 @@
 
 **MSc in Information Technology @ HKUST · Agent Inference Optimization Intern @ Kuaishou**
 
-🔬 Research Focus: **AI Agents** &nbsp;|&nbsp; **LLM Post-Training** &nbsp;|&nbsp; **Agentic Reasoning**
+🔬 Research Focus: **LLM Post-Training** &nbsp;|&nbsp; **AI Agents** &nbsp;|&nbsp; **Agentic Reasoning**
 
 </div>
 
@@ -16,7 +16,7 @@
 - 🏢 **Algorithm / Engineering Intern @ Kuaishou (快手)** — working on **Agent inference optimization**
 - 🧠 Research interests at the intersection of **RLHF / GRPO post-training**, **LLM agents**, and **efficient inference**
 - 🌱 Currently reading: *DeepSeek-R1*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
-- 💬 Reach me on GMail: **`hhhzhchhh939@gamil.com`**
+- 💬 Reach me on WeChat: **`15158871037`**
 
 ---
 
@@ -110,9 +110,9 @@
 ## 🐍 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=square&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=square&theme=light" />
-  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=square&theme=tokyonight" alt="GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=nightowl&hide_rank=true&hide_total=true&hide_streaks=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=light&hide_rank=true&hide_total=true&hide_streaks=true" />
+  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=AMark-CS&animation=snake&shape=circle&theme=nightowl&hide_rank=true&hide_total=true&hide_streaks=true" alt="GitHub Contribution Snake" />
 </picture>
 
 ---
