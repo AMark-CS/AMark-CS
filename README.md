@@ -4,7 +4,7 @@
 
 **MSc in Information Technology @ HKUST · Agent Inference Optimization Intern @ Kuaishou**
 
-🔬 Research Focus: **LLM Post-Training** &nbsp;|&nbsp; **AI Agents** &nbsp;|&nbsp; **Agentic Reasoning**
+🔬 Research Focus: **Agentic Reasoning** &nbsp;|&nbsp; **AI Agents** &nbsp;|&nbsp; **LLM Post-Training**
 
 </div>
 
@@ -15,8 +15,8 @@
 - 🎓 **M.Sc. in Computer Science**, The Hong Kong University of Science and Technology (HKUST)
 - 🏢 **Algorithm / Engineering Intern @ Kuaishou (快手)** — working on **Agent inference optimization**
 - 🧠 Research interests at the intersection of **RLHF / GRPO post-training**, **LLM agents**, and **efficient inference**
-- 🌱 Currently reading: *DeepSeek-V4*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
-- 💬 Reach me on WeChat: **`15158871037`**
+- 🌱 Currently reading: *DeepSeek-V4-Pro*, *Qwen3*, *GRPO* series papers; reproducing SFT → DPO → GRPO pipelines on Qwen
+- 💬 Reach me on Gmail: **hhhzhchhh939@gmail.com**
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 🛠️ What I'm Working On
 
-- ⚡ **Kuaishou · Agent Inference Optimization** — Focusing on ReAct and P&E to improve the inference efficiency of agent.
+- ⚡ **Kuaishou · Agent Optimization** — Focusing on ReAct and P&E to improve the inference efficiency of agent.
 - 🧪 **Reproducing Qwen2/3 pipelines** — SFT + DPO + GRPO end-to-end on single-GPU setups
 - 📖 **Paper reading group** — DeepSeek-R1, Qwen3, GRPO/DAPO/GSPO variants, MTP, MLA
 - 📝 Drafting a personal notes repo on *modern post-training* (PPO → DPO → GRPO → Online RLVR)
@@ -121,7 +121,7 @@
 
 - 🧪 **Research collaboration** on post-training, RLHF, reasoning models
 - 💼 **Full-time opportunities** in LLM agent / post-training / inference
-- 🌏 Connecting with researchers & engineers in the HK / SZ / Beijing / Shanghai / Hangzhou AI scene
+- 🌏 Connecting with researchers & engineers in the HK / SZ / Beijing / Shanghai / Hangzhou AI
 - 📬 Open-source contributions — happy to send PRs to vLLM / VERL / TRL
 
 ---
