@@ -131,7 +131,6 @@
 | Channel | Handle |
 |---|---|
 | ✉️ Email | `hhhzhchhh939l@gmail.com` |
-| 💬 WeChat | `15158871037` |
 | 🐙 GitHub | [@AMark-CS](https://github.com/AMark-CS) |
 
 ---
