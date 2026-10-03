@@ -16,10 +16,10 @@ I explore these questions through open-source tools and small, reproducible expe
 
 ## Selected projects
 
-### [toolglass](https://github.com/AMark-CS/toolglass)
+### [LoopPrism](https://github.com/AMark-CS/LoopPrism)
 A local-first tracing proxy for MCP tool calls. It helps inspect the tools an agent called, their timing, results, and errors—making execution easier to investigate.
 
-Start with the [README](https://github.com/AMark-CS/toolglass#readme), try it on your own workflow, and share a reproducible issue or integration request.
+Start with the [README](https://github.com/AMark-CS/LoopPrism#readme), try it on your own workflow, and share a reproducible issue or integration request.
 
 ### [mini-posttrain](https://github.com/AMark-CS/mini-posttrain)
 An educational PyTorch implementation of SFT and DPO, with LoRA and evaluation utilities. A compact project for understanding how post-training components fit together.
@@ -39,6 +39,6 @@ An educational PyTorch implementation of SFT and DPO, with LoRA and evaluation u
 
 I'm interested in collaborating with teams building agents that interact with real tools and applications—especially on tool-call observability, evaluation, permission boundaries, and failure recovery.
 
-Have a workflow that fails in a hard-to-explain way, or an integration idea for toolglass? Get in touch with the task, expected outcome, and a sanitized failure example. Please don't send credentials, private logs, or employer-confidential material.
+Have a workflow that fails in a hard-to-explain way, or an integration idea for LoopPrism? Get in touch with the task, expected outcome, and a sanitized failure example. Please don't send credentials, private logs, or employer-confidential material.
 
 [Email me](mailto:markfuture.ai@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/mark-zhang-78920431b/)
