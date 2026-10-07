@@ -2,7 +2,7 @@
 
 **Building AI systems that act reliably.**
 
-I'm a master's student at [HKUST](https://hkust.edu.hk/), with engineering experience in backend systems, retrieval-augmented generation, and AI agents. I focus on the systems around models: how agents use tools, how we verify outcomes, and how execution recovers when something goes wrong.
+I focus on the systems around models: how agents use tools, how we verify outcomes, and how execution recovers when something goes wrong.
 
 [Website](https://amark-cs.github.io/) · [X](https://x.com/MarkFutureai) · [LinkedIn](https://www.linkedin.com/in/mark-zhang-78920431b/) · [Email](mailto:markfuture.ai@gmail.com)
 
