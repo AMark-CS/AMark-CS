@@ -38,4 +38,4 @@ I'm interested in collaborating with teams building agents that interact with re
 
 Have a workflow that fails in a hard-to-explain way, or an integration idea for LoopPrism? Get in touch with the task, expected outcome, and a sanitized failure example. Please don't send credentials, private logs, or employer-confidential material.
 
-[Email me](mailto:markfuture.ai@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/mark-zhang-78920431b/)
+[Email me](mailto:markfuture.ai@gmail.com)
