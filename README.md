@@ -1,41 +1,18 @@
-# Hi, I'm Mark Zhang
+### Hey, I'm Mark
 
-**Building AI systems that act reliably.**
+I build and study AI systems that act reliably, with a focus on agent execution, tool-call observability, and post-training.
 
-I focus on the systems around models: how agents use tools, how we verify outcomes, and how execution recovers when something goes wrong.
+I write about experiments, failure cases, and engineering decisions in **回路之外 · Beyond the Loop**. You can also find me on [X](https://x.com/MarkFutureai) or visit my [website](https://amark-cs.github.io/).
 
-· [X](https://x.com/MarkFutureai) · [Email](mailto:markfuture.ai@gmail.com)
+#### Building
 
-## What I'm working toward
+- [LoopPrism](https://github.com/AMark-CS/LoopPrism) — A local-first tracing proxy for MCP tool calls, timing, results, and errors.
+- [nano-posttrain](https://github.com/AMark-CS/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA through reproducible experiments.
 
-- **Bounded actions** — tool permissions, approval boundaries, and safe execution.
-- **Verifiable outcomes** — task evaluation, execution traces, and reproducible failure analysis.
-- **Recoverable execution** — state management, retries, and the trade-offs between reliability, latency, and cost.
+#### Exploring
 
-I explore these questions through open-source tools and small, reproducible experiments, with post-training and efficient inference as supporting interests.
+- **Agent reliability** — Tool permissions, execution traces, evaluation, and recovery.
+- **Post-training** — Supervised fine-tuning, preference optimization, and efficient model adaptation.
+- **Open-source systems** — Learning from projects such as [vLLM](https://github.com/vllm-project/vllm) and [verl](https://github.com/volcengine/verl).
 
-## Selected projects
-
-### [LoopPrism](https://github.com/AMark-CS/LoopPrism)
-A local-first tracing proxy for MCP tool calls. It helps inspect the tools an agent called, their timing, results, and errors—making execution easier to investigate.
-
-Start with the [README](https://github.com/AMark-CS/LoopPrism#readme), try it on your own workflow, and share a reproducible issue or integration request.
-
-### [mini-posttrain](https://github.com/AMark-CS/mini-posttrain)
-An educational PyTorch implementation of SFT and DPO, with LoRA and evaluation utilities. A compact project for understanding how post-training components fit together.
-
-## Field notes
-
-**回路之外 · Beyond the Loop** is my Chinese publication about AI systems in practice: builds, experiments, failure cases, and engineering decisions.
-
-- **GitHub:** code, tests, and reproducible artifacts.
-- **回路之外 on WeChat:** Chinese long-form explanations and experiment reports. Search for **回路之外**.
-- **[X](https://x.com/MarkFutureai):** short English findings, demos, and technical discussion.
-
-## Let's work on a concrete problem
-
-I'm interested in collaborating with teams building agents that interact with real tools and applications—especially on tool-call observability, evaluation, permission boundaries, and failure recovery.
-
-Have a workflow that fails in a hard-to-explain way, or an integration idea for LoopPrism? Get in touch with the task, expected outcome, and a sanitized failure example. Please don't send credentials, private logs, or employer-confidential material.
-
-[Email me](mailto:markfuture.ai@gmail.com)
+I'm interested in collaborating on concrete problems in agent tooling and evaluation. Reach me at [markfuture.ai@gmail.com](mailto:markfuture.ai@gmail.com).
