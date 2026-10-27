@@ -2,7 +2,7 @@
 
 I build and study AI systems that act reliably, with a focus on agent execution, tool-call observability, and post-training.
 
-I write about experiments, failure cases, and engineering decisions in **回路之外 · Beyond the Loop**. You can also find me on [X](https://x.com/MarkFutureai) or visit my [website](https://amark-cs.github.io/).
+You can find me on [X](https://x.com/MarkFutureai) or visit my [website](https://amark-cs.github.io/).
 
 #### Building
 
