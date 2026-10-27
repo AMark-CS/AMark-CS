@@ -4,7 +4,7 @@
 
 I focus on the systems around models: how agents use tools, how we verify outcomes, and how execution recovers when something goes wrong.
 
-[Website](https://amark-cs.github.io/) · [X](https://x.com/MarkFutureai) · [LinkedIn](https://www.linkedin.com/in/mark-zhang-78920431b/) · [Email](mailto:markfuture.ai@gmail.com)
+· [X](https://x.com/MarkFutureai) · [Email](mailto:markfuture.ai@gmail.com)
 
 ## What I'm working toward
 
