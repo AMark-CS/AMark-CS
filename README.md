@@ -31,9 +31,6 @@ An educational PyTorch implementation of SFT and DPO, with LoRA and evaluation u
 - **GitHub:** code, tests, and reproducible artifacts.
 - **回路之外 on WeChat:** Chinese long-form explanations and experiment reports. Search for **回路之外**.
 - **[X](https://x.com/MarkFutureai):** short English findings, demos, and technical discussion.
-- **[Substack](https://substack.com/@markzhang209977):** an early-stage home for English field notes.
-- **[Website](https://amark-cs.github.io/):** selected work and long-term context.
-- **[LinkedIn](https://www.linkedin.com/in/mark-zhang-78920431b/):** professional milestones and collaboration.
 
 ## Let's work on a concrete problem
 
