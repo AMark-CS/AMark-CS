@@ -6,7 +6,7 @@ You can find me on [X](https://x.com/MarkFutureai) or visit my [website](https:/
 
 #### Building
 
-- [LoopPrism](https://github.com/AMark-CS/LoopPrism) — A local-first tracing proxy for MCP tool calls, timing, results, and errors.
+- [LoopPrism](https://github.com/AMark-CS/LoopPrism) — See what your coding agents actually do and spend: sessions, context and cost for Claude Code, Codex, OpenCode, DeepSeek Harness, WorkBuddy. 
 - [nano-posttrain](https://github.com/AMark-CS/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA through reproducible experiments.
 
 #### Exploring
